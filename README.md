@@ -20,4 +20,6 @@ This template repository is for websites built with the [Jekyll](http://jekyllrb
 
 5. Ask the CUI Technical Chair to grant your repository permissions to push to the `conversationaluserinterfaces.org` repository
 
+6. Ensure GitHub Pages are enabled, with the source set to `GitHub Actions`
+
 6. Ensure Actions are enabled in this repository in the GitHub repository settings
