@@ -47,5 +47,5 @@ jobs:
           user-email: 'cuitechchair@gmail.com'
           user-name: 'cuibot'
           target-branch: 'master' # This will change in the future to 'main' or equivalent
-          target-directory: 'subsite' ###### <<<<<<<<<<<<<<<<<< ENSURE YOU CHANGE THIS!!!
+          target-directory: 'mysubsitehere' ###### <<<<<<<<<<<<<<<<<< ENSURE YOU CHANGE THIS!!!
 
